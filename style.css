@@ -1,0 +1,90 @@
+#myCanvas
+{
+  height:2000px;
+  width:1600px;
+  max-width:99%;
+  min-width:800px;
+  position:absolute;
+  bottom:0;
+  
+}
+body
+{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background:black url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat 50% 0px;
+}
+div
+{  
+  font-family: 'Exo 2', sans-serif;
+  font-size:24px;
+  text-align:center;
+  color:white;
+  
+  position:absolute;
+  
+  height:100px;
+  width:200px;
+  
+  top:50%;
+  left:50%;
+  
+  margin-top:-50px;
+  margin-left:-100px;    
+}
+div
+{  
+  font-family: 'Exo 2', sans-serif;
+  font-size:24px;
+  text-align:center;
+  color:white;
+  
+  position:absolute;
+  
+  height:100px;
+  width:200px;
+  
+  top:50%;
+  left:50%;
+  
+  margin-top:-50px;
+  margin-left:-100px;    
+}
+
+#table-div{
+position: absolute;
+top: 40%;
+
+}
+
+th{
+  border-top: solid 1px white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 5em;
+}
+.dyna{
+  color: #D3D3D3
+  padding:4px;
+}
+td{
+  border-bottom: solid 1px white;
+  font-weight: 100;
+  font-family: 'Raleway', sans-serif;
+}
+#sw{
+  position: absolute;
+  top:30%;
+  right: 60%;
+  overflow: hidden;
+  z-index: -1;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg); 
+  transform: rotate(-45deg);
+
+}
+
+
+
+
+
